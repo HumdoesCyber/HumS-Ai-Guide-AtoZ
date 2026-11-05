@@ -10,7 +10,8 @@ company, from a solo founder to a large enterprise, on your own hardware or on A
 
 ## What it will contain
 
-- The guide itself: 29 parts plus appendices, built to PDF from source.
+- The guide itself: 40 chapters in four books (Understand, Build, Run and Defend, Lead)
+  plus a reference section, built to PDF from source. See [STRUCTURE.md](STRUCTURE.md).
 - Every code example as a real file, with a test suite that runs it.
 - The verification trail: what was checked, against which source, and what was corrected.
 
