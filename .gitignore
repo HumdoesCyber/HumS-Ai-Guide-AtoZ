@@ -1,0 +1,20 @@
+# --- Must stay out: copyrighted source copies (link to the official URLs instead) ---
+research_sources/
+
+# --- Secrets ---
+.env
+.env.*
+*.pem
+*.key
+credentials*
+.aws/
+
+# --- Build and environment clutter ---
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.docx
+~$*
+tools/out/
